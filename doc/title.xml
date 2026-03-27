@@ -18,7 +18,7 @@
     via OSCAR, then OSCAR will automatically be used instead of PARI/GP.
   </TitleComment>
   <Author>
-    GAP code by Björn Assmann⸴ Andreas Distler and Bettina Eick
+    GAP code by Björn Assmann; Andreas Distler and Bettina Eick
   </Author>
   <Author>
     PARI/GP code by Bill Allombert
